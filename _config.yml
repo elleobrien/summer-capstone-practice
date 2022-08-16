@@ -1,9 +1,9 @@
-title: MUSA 550
+title: Summer Capstone practice
 logo: /assets/img/logo.png
-description: Geospatial Data Science in Python.
+description: Demoing some altair interactive charts
 show_downloads: false
-repository: MUSA-550-Fall-2021/github-pages-single-page-starter
-google_analytics:
+repository: elleobrien/summer-capstone-practice
+google_analytics: 
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
