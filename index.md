@@ -9,7 +9,7 @@ folium-loader:
   folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the desired height
 ---
 
-# Welcome!
+# Welcome to Elle's version of this code!
 
 This single-page website demos how to display visualizations created with altair, hvplot, and folium.
 
@@ -19,7 +19,7 @@ For examples of how to use markdown to style text, see this [this page](./anothe
 
 This section will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
 
-## Altair Example
+## Altair Example (Elle's repository version)
 
 Below is a chart of the incidence of measles since 1928 for the 50 US states.
 
